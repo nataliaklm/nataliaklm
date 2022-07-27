@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/natalia-calmic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
