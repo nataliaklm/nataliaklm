@@ -23,5 +23,6 @@
 - 🌱 Highly motivated, perseverent and hardworking person striving to build a career in IT
 - 👯 I will be super happy to collaborate on interesting projects as Junior QA
 - 🤔 Looking for help with finding a place where I get can some professional experience in QA
-- 💬 If my profile seemed catchy to you, do not hesitate to contact me!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-calmic/)
+- 💬 If my profile seemed interesting to you, do not hesitate to contact me via LinkedIn or email: work.natalia.calm@gmail.com
+
+
